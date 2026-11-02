@@ -1,11 +1,11 @@
-# RAG and AI Skills Hands-on
+# RAG and AI Tools Hands-on
 
 This repository contains two Module 6 hands-on projects that demonstrate
 different ways to build an AI assistant in Java:
 
 - **M6-pub-a** is a retrieval-augmented generation (RAG) system over a local
   Java repository.
-- **M6-pub-b** is a ReAct-style query assistant that uses skills (tools) to
+- **M6-pub-b** is a ReAct-style query assistant that uses tools to
   answer questions about a book catalogue.
 
 Both projects are self-contained and use Java 17, `make`, and JUnit. The
